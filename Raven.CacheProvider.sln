@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raven.CacheProvider", "Raven.CacheProvider\Raven.CacheProvider.csproj", "{6FEEAF0B-AECD-41FA-B57A-F5B0DE224F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raven.CacheProvider.Tests", "Raven.CacheProvider.Tests\Raven.CacheProvider.Tests.csproj", "{9F9A5337-9AF4-4F13-B3A0-C5CDEE86D3BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FEEAF0B-AECD-41FA-B57A-F5B0DE224F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEEAF0B-AECD-41FA-B57A-F5B0DE224F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEEAF0B-AECD-41FA-B57A-F5B0DE224F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEEAF0B-AECD-41FA-B57A-F5B0DE224F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9A5337-9AF4-4F13-B3A0-C5CDEE86D3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9A5337-9AF4-4F13-B3A0-C5CDEE86D3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9A5337-9AF4-4F13-B3A0-C5CDEE86D3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9A5337-9AF4-4F13-B3A0-C5CDEE86D3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

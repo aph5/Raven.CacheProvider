@@ -1,0 +1,8 @@
+
+/_ReSharper.Raven.CacheProvider
+/Raven.CacheProvider/bin
+/Raven.CacheProvider.Tests/bin
+/Raven.CacheProvider.Tests/obj
+/Raven.CacheProvider/obj
+*.gpState
+/Raven.CacheProvider/_ReSharper.Raven.CacheProvider/BuildScriptCache/.version
